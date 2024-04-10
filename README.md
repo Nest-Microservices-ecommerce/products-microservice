@@ -1,3 +1,23 @@
+# Product Microservice
+
+## Dev
+
+1. Clonar el repositorio
+2. Instalar las dependencias
+   ```bash
+   npm install
+   ```
+3. Renombrar el archivo `.env.template` a `.env`
+4. Configurar las variables de entorno
+5. Ejecutar migraciones de prisma
+   ```bash
+   npx prisma migrate dev
+   ```
+6. Ejecutar el proyecto
+   ```bash
+    npm run start:dev
+   ```
+
 # Comandos
 
 - Crear un recurso
