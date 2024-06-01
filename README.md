@@ -45,3 +45,8 @@
 
 - Instalar microservicios
   `npm i @nestjs/microservices`
+
+
+# Configuración de nats
+[Documentación oficial de NestJS](https://docs.nestjs.com/microservices/nats).
+
